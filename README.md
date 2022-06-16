@@ -1,16 +1,7 @@
-# book_list
+# Book-list application
 
-A new Flutter project.
+This application contains 3-pages that show the book-list, details of a book and the favorite book list.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Application start with the homepage which shows the all books from the server. The user can add any book to his/her favorite list by pressing the favorite icon. 
+If the user click any item on list, application navigates to the detail page. 
